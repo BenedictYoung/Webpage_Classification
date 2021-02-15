@@ -3,7 +3,7 @@
 ## 1.Introduction
 There is a dataset contains webpages collected from computer science departments of various universities.  This project is about learning classifiers to predict the type of webpage from the text.
 
-Since the data in the dataset contains some errors and saved in various encoding format, I did some data cleaning to improve data quality and utility(including delete 2 unrecognized pages). This project is based on cleaned data, which can be found in [./webkb/](). 
+Since the data in the dataset contains some errors and saved in various encoding format, I did some data cleaning to improve data quality and utility(including delete 2 unrecognized pages). This project is based on cleaned data, which can be found in [./webkb/](https://github.com/BenedictYoung/Webpages_Classification/tree/main/webkb). 
 
 If you want to access the original dataset, you may go to: [link](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/). 
 
