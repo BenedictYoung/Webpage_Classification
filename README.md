@@ -1,4 +1,4 @@
-#  Webpages Classification 
+#  Webpage Classification 
 
 ## 1.Introduction
 There is a dataset contains webpages collected from computer science departments of various universities.  This project is about learning classifiers to predict the type of webpage from the text.
