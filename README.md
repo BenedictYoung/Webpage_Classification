@@ -23,7 +23,7 @@ All webpages are labeled into the following 7 target categories:(cleaned/origina
 </center>
 
 
-And, the data is divided by universities:(cleaned/original)
+The data is divided by universities:(cleaned/original)
 
 
 <center>
