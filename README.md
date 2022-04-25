@@ -9,23 +9,31 @@ If you want to access the original dataset, you may go to: [link](http://www.cs.
 
 ## 2.Dataset
 All webpages are labeled into the following 7 target categories:(cleaned/original)
-        
-student (1641/1641)
-faculty (1124/1124)
-staff (136/137)
-department (182/182)
-course (930/930)
-project (504/504)
-other (3763/3764)
+
+<center>
+| Categories|  Cleaned   | Original |
+|-----------|------------|----------|
+| student   | 1641       | 1641     |
+| staff     | 136        | 137      |
+| department| 182        | 182      |
+| course    | 930        | 930      |
+| project   | 504        | 504      |   
+| other     | 3763       | 3764     |
+</center>
+
 
 And, the data is divided by universities:(cleaned/original)
 
-Cornell (867/867)
-Texas (827/877)
-Washington (1204/1205)
-Wisconsin (1263/1263)
-Miscellaneous (4119/4120)
 
+<center>
+| Categories|  Cleaned   | Original |
+|-----------|------------|----------|
+| Cornell   | 867        | 867      |
+| Texas     | 827        | 827      |
+| Washington| 1204       | 1205     |
+| Wisconsin | 1263       | 1263     |
+| Miscellaneous   | 4119        | 4120      |   
+</center>
 
 # 3.Methodology 
 Instead of treating the HTML format texts as structured data, I tend to treat webpage as plain text. Therefore, I implemented the pre-trained BERT model to solve this task. After applying some specific task-oriented "fine-tuning", my proposed method could achieve about 94% prediction accuracy. 
