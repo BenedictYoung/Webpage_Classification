@@ -11,6 +11,7 @@ If you want to access the original dataset, you may go to: [link](http://www.cs.
 All webpages are labeled into the following 7 target categories:(cleaned/original)
 
 <center>
+  
 | Categories|  Cleaned   | Original |
 |-----------|------------|----------|
 | student   | 1641       | 1641     |
@@ -26,6 +27,7 @@ And, the data is divided by universities:(cleaned/original)
 
 
 <center>
+  
 | Categories|  Cleaned   | Original |
 |-----------|------------|----------|
 | Cornell   | 867        | 867      |
@@ -41,7 +43,6 @@ Instead of treating the HTML format texts as structured data, I tend to treat we
 # 4.Description
 
 <center>
-Table 1: Description of files and documents
 
 | File name      |  Description   |
 |---------|--------|
